@@ -1,0 +1,11 @@
+pandas==2.2.3
+gradio==5.8.0
+gradio_client==1.5.1
+openai==1.57.0
+pillow==10.4.0
+langchain==0.3.10
+langchain-community==0.3.10
+langchain_openai==0.2.12
+unstructured==0.16.11
+sentence-transformers==3.3.1
+chromadb==0.5.23
